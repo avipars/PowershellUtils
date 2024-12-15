@@ -13,3 +13,6 @@ You assume all risks associated with running the provided code, including but no
 By using the provided scripts, you agree to take full responsibility for verifying their functionality, appropriateness, and safety for your specific needs and environment.
 
 If you are not familiar with the implications of running a script, consult a professional before proceeding.
+
+
+Consider looking at these Batch scripts: https://github.com/avipars/BatchUtils
