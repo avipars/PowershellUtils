@@ -1,3 +1,4 @@
+#alternative way to loop over and find dupes
 $srcDir = "C:\Users\blah\Downloads"
 
 # Get all files in the source directory and its subdirectories
@@ -16,9 +17,7 @@ foreach ($group in $files | Group-Object -Property Length | Where-Object { $_.Co
         foreach ($file in $hash.Group) {
            $p = $file.Path
             Write-Host "$p"
-         
-            #Invoke-Item -path $file.Path
-                 
+            #Invoke-Item -path $file.Path # if you want to open each item
             # Add your own logic here
         }
     }
