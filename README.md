@@ -18,3 +18,10 @@ If you are not familiar with the implications of running a script, consult a pro
 
 
 Consider looking at these Batch scripts: https://github.com/avipars/BatchUtils
+
+
+admin_tools 
+
+- Usually will require running with elevated privileges
+
+- Best for managing computers and troubleshooting
