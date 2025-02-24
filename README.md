@@ -14,7 +14,9 @@ Consider looking at these Batch scripts too: https://github.com/avipars/BatchUti
 
 - [adobe](https://github.com/avipars/PowershellUtils/tree/main/admin_tools/adobe): Scripts relating to the Adobe CC Suite 
 
-- [bluetooth](https://github.com/avipars/PowershellUtils/tree/main/admin_tools/bluetooth); Scripts aimed at fixing driver issues with bluetooth 
+- [bluetooth](https://github.com/avipars/PowershellUtils/tree/main/admin_tools/bluetooth): Scripts aimed at fixing driver issues with bluetooth 
+
+- [temperature](https://github.com/avipars/PowershellUtils/tree/main/admin_tools/temperature): Scripts for getting computer temperature
 
 [files](https://github.com/avipars/PowershellUtils/tree/main/files)
 
@@ -26,7 +28,7 @@ Consider looking at these Batch scripts too: https://github.com/avipars/BatchUti
 
 [links](https://github.com/avipars/PowershellUtils/tree/main/links)
 
-- If you have a bunch of URLs in a text file, it can open all the links at once in Google Chrome
+- If you have a bunch of URLs in a text file, these scripts can open all the links at once in Google Chrome
 
 [misc](https://github.com/avipars/PowershellUtils/tree/main/misc)
 

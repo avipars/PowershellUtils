@@ -1,4 +1,4 @@
-
+# gets file hash and prints (md5 and sha256)
 function Get-FileHashes {
     param (
         [Parameter(Mandatory=$true)]
