@@ -1,4 +1,4 @@
-# 4 liner to find duplicate files based on hash and print results
+# 4 liner to find duplicate files (in nested folders too) based on hash and print results 
 $srcDir = "C:\Users\blah\Downloads\"
 Get-ChildItem -Path $srcDir -File -Recurse | Group -Property Length `
     | where { $_.Count -gt 1 } | select -ExpandProperty Group | Get-FileHash `

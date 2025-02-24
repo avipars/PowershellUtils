@@ -24,7 +24,7 @@ $file = Get-Content $powershell
         $exists = $false
         Add-Content $powershell "$ipv4"
         [console]::beep(500,300)
-        $Response = Invoke-WebRequest -Uri "http://your_url_here" #get request
+        $Response = Invoke-WebRequest -Uri "http://your_url_here" # get request
         Write-Output $Response.StatusCode #check results
         break loop1
     }

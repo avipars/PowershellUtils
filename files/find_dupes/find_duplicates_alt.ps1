@@ -1,4 +1,4 @@
-#alternative way to loop over and find dupes
+#alternative way to loop over and find dupes recursively (in nested folders too)
 $srcDir = "C:\Users\blah\Downloads"
 
 # Get all files in the source directory and its subdirectories

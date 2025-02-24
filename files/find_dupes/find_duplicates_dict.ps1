@@ -1,4 +1,4 @@
-#hash dictionary way to find dupes
+# hash dictionary way to find dupes
 # Specify the folder containing the _ files
 $folderPath = "C:\Users\blah\Downloads"
 
