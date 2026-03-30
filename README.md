@@ -1,5 +1,8 @@
 # PowershellUtils
 
+![GitHub Sponsors](https://img.shields.io/github/sponsors/avipars)
+
+
 ## Useful Powershell scripts (.ps1)
 
 Many of these scripts require you to have input text files, and change the file path variable to point to the relevant place on your computer
@@ -20,11 +23,15 @@ Consider looking at these Batch scripts too: https://github.com/avipars/BatchUti
 
 [files](https://github.com/avipars/PowershellUtils/tree/main/files)
 
-- For performing various operations on files and folders
+- For performing various operations on files and folders:
 
     - [find_dupes](https://github.com/avipars/PowershellUtils/tree/main/files/find_dupes): Find duplicate files that are taking up precious space
 
     - [mass_open](https://github.com/avipars/PowershellUtils/tree/main/files/mass_open): Opens all files in a given directory
+
+
+    - [metadata](https://github.com/avipars/PowershellUtils/tree/main/files/metadata): Get and change file metadata 
+
 
 [links](https://github.com/avipars/PowershellUtils/tree/main/links)
 
